@@ -1,0 +1,15 @@
+header {
+    margin-top: 50px !important;
+}
+.arrow {
+    font-size: 35px;
+    font-weight: bolder!important;
+}
+.search {
+    font-size: 21px;
+    font-weight: normal !important;
+    color: #808191;
+}
+h1 {
+    font-size: 2rem!important;
+}

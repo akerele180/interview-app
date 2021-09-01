@@ -1,0 +1,29 @@
+li {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #808191;
+}
+span {
+    font-size: 12px;
+}
+.icorn {
+    font-size: 25px !important;
+}
+ul {
+    background: #252836;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+nav {
+    position: sticky;
+    width: 100%;
+    /* width: 101vw; */
+    left: 0;
+    /* margin-left: -5%; */
+    bottom: 0;
+}
