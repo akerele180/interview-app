@@ -64,3 +64,31 @@ h6 {
 }
 .with {min-width: 80vw}
 .ml, .mr-1 {margin-right: 2em !important;}
+
+article li{
+    width: 60px !important;
+    height: 60px !important;
+    
+    /* border-image: linear-gradient(180deg, #1C85A6 0%, #6C5ECF 100%) !important; */
+}
+article li:first-child, article li:nth-child(2){
+    margin-right: 1em;
+    border-radius: 100%;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #1C85A6;
+}
+article li:nth-child(1)::after, article li:nth-child(2)::after  {
+    content: '';
+    position: absolute;
+    background-image: url('../images/tick.png');
+    width: 24px;
+    height: 24px;
+    top: 103px;
+    /* right: 0px; */
+    transform: translateX(23px);
+}
+li img {
+    width: 100%;
+    padding: 4px;
+}
