@@ -68,7 +68,7 @@ function Card2() {
                 </div>
             </div>
             <div className="edit">
-                <div className="row mr-1 cwith my-4">
+                <div className="row mr-1 with my-4">
                     <div className="col align-self-center">
                         <img src={image5} alt=""/>
                     </div>
