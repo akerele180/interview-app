@@ -7,7 +7,7 @@ function Card2() {
     return (
         <section className="">
             <div className='edit'>
-                <div className="with mr-2 card-image">
+                <div className="with ml card-image">
                     <img src={skater2} alt='skater 2'/>
                 </div>
                 <div className="with card-image">
@@ -24,7 +24,7 @@ function Card2() {
                     <div className="col align-self-center">
                         <img src={image7} alt=""/>
                     </div>
-                    <div className="col align-self-center">
+                    <div className="col align-self-center p-0">
                         <p className="row m-0 top">Prepare your first skateboard jump</p>
                         <p className="row m-0 pt-3 pb-1 mid">Jordan Wise</p>
                         <p className="row m-0 bot">25,908 views ~ 2 days ago</p>
@@ -35,7 +35,7 @@ function Card2() {
                     <div className="col align-self-center">
                         <img src={image5} alt=""/>
                     </div>
-                    <div className="col align-self-center">
+                    <div className="col align-self-center p-0">
                         <p className="row m-0 top">Prepare your first skateboard jump</p>
                         <p className="row m-0 pt-3 pb-1 mid">Jordan Wise</p>
                         <p className="row m-0 bot">25,908 views ~ 2 days ago</p>
@@ -49,7 +49,7 @@ function Card2() {
                     <div className="col align-self-center">
                         <img src={image5} alt=""/>
                     </div>
-                    <div className="col align-self-center">
+                    <div className="col align-self-center p-0">
                         <p className="row m-0 top">Prepare your first skateboard jump</p>
                         <p className="row m-0 py-3 mid">Jordan Wise</p>
                         <p className="row m-0 bot">25,908 views ~ 2 days ago</p>
@@ -60,7 +60,7 @@ function Card2() {
                     <div className="col align-self-center">
                         <img src={image7} alt=""/>
                     </div>
-                    <div className="col align-self-center">
+                    <div className="col align-self-center p-0">
                         <p className="row m-0 top">Prepare your first skateboard jump</p>
                         <p className="row m-0 pt-3 pb-1 mid">Jordan Wise</p>
                         <p className="row m-0 bot">25,908 views ~ 2 days ago</p>
@@ -72,7 +72,7 @@ function Card2() {
                     <div className="col align-self-center">
                         <img src={image5} alt=""/>
                     </div>
-                    <div className="col align-self-center">
+                    <div className="col align-self-center p-0">
                         <p className="row m-0 top">Prepare your first skateboard jump</p>
                         <p className="row m-0 py-3 mid">Jordan Wise</p>
                         <p className="row m-0 bot">25,908 views ~ 2 days ago</p>
@@ -83,7 +83,7 @@ function Card2() {
                     <div className="col align-self-center">
                         <img src={image7} alt=""/>
                     </div>
-                    <div className="col align-self-center">
+                    <div className="col align-self-center p-0">
                         <p className="row m-0 top">Prepare your first skateboard jump</p>
                         <p className="row m-0 pt-3 pb-1 mid">Jordan Wise</p>
                         <p className="row m-0 bot">25,908 views ~ 2 days ago</p>

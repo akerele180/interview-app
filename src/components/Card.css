@@ -62,4 +62,5 @@ h6 {
 .edit::-webkit-scrollbar {
    display: none;
 }
-.with {min-width: 90vw}
+.with {min-width: 80vw}
+.ml, .mr-1 {margin-right: 2em !important;}
